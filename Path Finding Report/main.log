@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.27)  25 APR 2019 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.27)  10 MAY 2019 23:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,17 +136,25 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
+(d:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count95
+\float@exts=\toks16
+\float@box=\box29
+\@float@everytoks=\toks17
+\@floatcapt=\box30
+)
 (d:/texlive/2018/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (d:/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (d:/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks16
+\pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen128
 \pgfutil@tempdimb=\dimen129
 
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
 ) (d:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box29
+\pgfutil@abb=\box31
 
 (d:/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -163,11 +171,11 @@ Package: pgf 2019/02/02 v3.1.1 (3.1.1)
 Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
 
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks17
-\pgfkeys@temptoks=\toks18
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
 
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks19
+\pgfkeys@tmptoks=\toks21
 ))
 \pgf@x=\dimen130
 \pgf@y=\dimen131
@@ -179,14 +187,14 @@ Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
 \pgf@yc=\dimen137
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count95
-\c@pgf@countb=\count96
-\c@pgf@countc=\count97
-\c@pgf@countd=\count98
-\t@pgf@toka=\toks20
-\t@pgf@tokb=\toks21
-\t@pgf@tokc=\toks22
-\pgf@sys@id@count=\count99
+\c@pgf@counta=\count96
+\c@pgf@countb=\count97
+\c@pgf@countc=\count98
+\c@pgf@countd=\count99
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count100
  (d:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
 )
@@ -200,8 +208,8 @@ File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
 )))
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfsyssoftpath@smallbuffer@items=\count100
-\pgfsyssoftpath@bigbuffer@items=\count101
+\pgfsyssoftpath@smallbuffer@items=\count101
+\pgfsyssoftpath@bigbuffer@items=\count102
 )
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
@@ -230,11 +238,11 @@ Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen138
-\pgfmath@count=\count102
-\pgfmath@box=\box30
-\pgfmath@toks=\toks23
-\pgfmath@stack@operand=\toks24
-\pgfmath@stack@operation=\toks25
+\pgfmath@count=\count103
+\pgfmath@box=\box32
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
 )
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
@@ -254,7 +262,7 @@ x)
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
 etics.code.tex)))
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count103
+\c@pgfmathroundto@lastzeros=\count104
 ))
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
@@ -287,10 +295,10 @@ File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count104
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count105
 )
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
 .tex
@@ -321,14 +329,14 @@ File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@max=\dimen162
-\pgf@sys@shading@range@num=\count105
+\pgf@sys@shading@range@num=\count106
 )
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfexternal@startupbox=\box34
+\pgfexternal@startupbox=\box36
 ))
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
@@ -344,7 +352,7 @@ File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
 ))) (d:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
 x
 File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfnodeparttextbox=\box35
+\pgfnodeparttextbox=\box37
 )
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
@@ -369,8 +377,8 @@ Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen165
 \pgffor@skip=\dimen166
-\pgffor@stack=\toks26
-\pgffor@toks=\toks27
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
 ))
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2019/02/02 v3.1.1 (3.1.1)
@@ -378,7 +386,7 @@ Package: tikz 2019/02/02 v3.1.1 (3.1.1)
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
 de.tex
 File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgf@plot@mark@count=\count106
+\pgf@plot@mark@count=\count107
 \pgfplotmarksize=\dimen167
 )
 \tikz@lastx=\dimen168
@@ -387,22 +395,22 @@ File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \tikz@lastysaved=\dimen171
 \tikzleveldistance=\dimen172
 \tikzsiblingdistance=\dimen173
-\tikz@figbox=\box36
-\tikz@figbox@bg=\box37
-\tikz@tempbox=\box38
-\tikz@tempbox@bg=\box39
-\tikztreelevel=\count107
-\tikznumberofchildren=\count108
-\tikznumberofcurrentchild=\count109
-\tikz@fig@count=\count110
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count108
+\tikznumberofchildren=\count109
+\tikznumberofcurrentchild=\count110
+\tikz@fig@count=\count111
 
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfmatrixcurrentrow=\count111
-\pgfmatrixcurrentcolumn=\count112
-\pgf@matrix@numberofcolumns=\count113
+\pgfmatrixcurrentrow=\count112
+\pgfmatrixcurrentcolumn=\count113
+\pgf@matrix@numberofcolumns=\count114
 )
-\tikz@expandcount=\count114
+\tikz@expandcount=\count115
 
 (d:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytopaths.code.tex
@@ -416,7 +424,11 @@ File: tikzlibrarypositioning.code.tex 2019/02/02 v3.1.1 (3.1.1)
 LaTeX Warning: Unused global option(s):
     [romanappendicies].
 
-(./main.aux)
+(./main.aux
+
+LaTeX Warning: Label `evenmorerobotProgress' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -435,17 +447,17 @@ LaTeX Font Info:    ... okay on input line 5.
 -- Lines per column: 58 (exact).
 (d:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
+\scratchcounter=\count116
 \scratchdimen=\dimen174
-\scratchbox=\box40
-\nofMPsegments=\count116
-\nofMParguments=\count117
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count118
+\scratchbox=\box42
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count119
 \MPscratchDim=\dimen175
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
-\everyMPtoPDFconversion=\toks29
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks31
 ) (d:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -504,85 +516,114 @@ e
 ))
 ABD: EveryShipout initializing macros (./title.tex) (./abstract.tex)
 (./introduction.tex
-<images/robotImage.jpg, id=4, 1505.625pt x 1505.625pt>
-File: images/robotImage.jpg Graphic file (type jpg)
-<use images/robotImage.jpg>
-Package pdftex.def Info: images/robotImage.jpg  used on input line 16.
-(pdftex.def)             Requested size: 189.0pt x 188.98378pt.
-) (./literaturereview.tex) (./design.tex [1{d:/texlive/2018/texmf-var/fonts/map
-/pdftex/updmap/pdftex.map}
+<images/iris.png, id=4, 1606.0pt x 903.375pt>
+File: images/iris.png Graphic file (type png)
+<use images/iris.png>
+Package pdftex.def Info: images/iris.png  used on input line 16.
+(pdftex.def)             Requested size: 252.0pt x 141.74472pt.
+) (./literaturereview.tex [1{d:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/
+pdftex.map}
 
 
- <./images/robotImage.jpg>]
-<images/steps.png, id=14, 514.92375pt x 714.41907pt>
+ <./images/iris.png (PNG copy)>]) (./design.tex
+[2]
+<images/steps.png, id=17, 514.92375pt x 714.41907pt>
 File: images/steps.png Graphic file (type png)
 <use images/steps.png>
-Package pdftex.def Info: images/steps.png  used on input line 31.
+Package pdftex.def Info: images/steps.png  used on input line 30.
 (pdftex.def)             Requested size: 189.0pt x 262.2161pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 40.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 40.
-<images/nn.png, id=15, 660.21657pt x 519.44063pt>
+(Font)              <5> on input line 39.
+<images/nn.png, id=18, 660.21657pt x 519.44063pt>
 File: images/nn.png Graphic file (type png)
 <use images/nn.png>
-Package pdftex.def Info: images/nn.png  used on input line 44.
+Package pdftex.def Info: images/nn.png  used on input line 43.
 (pdftex.def)             Requested size: 252.0pt x 198.26927pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2 <./images/steps.png> <./images/nn.png>]
-<images/tansig.png, id=21, 176.15813pt x 131.74219pt>
+<images/tansig.png, id=19, 176.15813pt x 131.74219pt>
 File: images/tansig.png Graphic file (type png)
 <use images/tansig.png>
-Package pdftex.def Info: images/tansig.png  used on input line 56.
+Package pdftex.def Info: images/tansig.png  used on input line 55.
 (pdftex.def)             Requested size: 126.0pt x 94.23112pt.
-) (./implementation.tex)
-(./results.tex) (./conclusions.tex) (./acknowledgment.tex) (./bibliography.tex
-(./main.bbl)) (./biography.tex
-<images/tom.jpg, id=23, 850.17625pt x 850.17625pt>
-File: images/tom.jpg Graphic file (type jpg)
-<use images/tom.jpg>
-Package pdftex.def Info: images/tom.jpg  used on input line 3.
-(pdftex.def)             Requested size: 72.25754pt x 72.25754pt.
-File: images/tom.jpg Graphic file (type jpg)
-<use images/tom.jpg>
-Package pdftex.def Info: images/tom.jpg  used on input line 3.
-(pdftex.def)             Requested size: 72.25754pt x 72.25754pt.
-<images/danni.png, id=26, 401.5pt x 401.5pt>
-File: images/danni.png Graphic file (type png)
-<use images/danni.png>
-Package pdftex.def Info: images/danni.png  used on input line 11.
-(pdftex.def)             Requested size: 72.26688pt x 72.26688pt.
-File: images/danni.png Graphic file (type png)
-<use images/danni.png>
-Package pdftex.def Info: images/danni.png  used on input line 11.
-(pdftex.def)             Requested size: 72.26688pt x 72.26688pt.
-) [3 <./images/tom.jpg> <./images/danni.png (PNG copy)> <./images/tansig.png>] 
-(./main.aux) ) 
+[3 <./images/steps.png> <./images/nn.png> <./images/tansig.png>])
+(./implementation.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+<images/ui1.png, id=27, 716.6775pt x 526.96875pt>
+File: images/ui1.png Graphic file (type png)
+<use images/ui1.png>
+Package pdftex.def Info: images/ui1.png  used on input line 33.
+(pdftex.def)             Requested size: 226.79846pt x 166.75992pt.
+) (./results.tex
+<images/ui.png, id=28, 739.76375pt x 533.995pt>
+File: images/ui.png Graphic file (type png)
+<use images/ui.png>
+Package pdftex.def Info: images/ui.png  used on input line 6.
+(pdftex.def)             Requested size: 226.79846pt x 163.71156pt.
+<images/moreProgress.png, id=29, 727.71875pt x 525.965pt>
+File: images/moreProgress.png Graphic file (type png)
+<use images/moreProgress.png>
+Package pdftex.def Info: images/moreProgress.png  used on input line 16.
+(pdftex.def)             Requested size: 226.79846pt x 163.92224pt.
+<images/evenMoreProgress.png, id=30, 707.64375pt x 433.62pt>
+File: images/evenMoreProgress.png Graphic file (type png)
+<use images/evenMoreProgress.png>
+Package pdftex.def Info: images/evenMoreProgress.png  used on input line 25.
+(pdftex.def)             Requested size: 226.79846pt x 138.97296pt.
+<images/somuchProgress.png, id=31, 713.66624pt x 490.83376pt>
+File: images/somuchProgress.png Graphic file (type png)
+<use images/somuchProgress.png>
+Package pdftex.def Info: images/somuchProgress.png  used on input line 33.
+(pdftex.def)             Requested size: 226.79846pt x 155.98402pt.
+
+
+LaTeX Warning: Reference `somuchProgress' on page 4 undefined on input line 37.
+
+
+) (./conclusions.tex [4 <./images/ui1.png>]) (./bibliography.tex (./main.bbl
+[5 <./images/ui.png> <./images/moreProgress.png> <./images/evenMoreProgress.png
+> <./images/somuchProgress.png>]
+Overfull \hbox (7.1175pt too wide) in paragraph at lines 68--73
+\OT1/ptm/m/n/8 https://www.sciencedirect.com/science/article/pii/B9781845696634
+500012 
+ []
+
+)) [6
+
+] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 12429 strings out of 492616
- 253828 string characters out of 6132768
- 300580 words of memory out of 5000000
- 16081 multiletter control sequences out of 15000+600000
- 39580 words of font info for 69 fonts, out of 8000000 for 9000
+ 12540 strings out of 492616
+ 255425 string characters out of 6132768
+ 302071 words of memory out of 5000000
+ 16185 multiletter control sequences out of 15000+600000
+ 43156 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,48p,545b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texli
-ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2018/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2018/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2018/texmf-dist/fonts/type
-1/urw/times/utmb8a.pfb><d:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmbi8
-a.pfb><d:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/texlive/
-2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 732467 bytes).
+ 57i,8n,48p,1236b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2018/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><d:/texlive/2018/texmf-dist/fonts/type1/urw/times/
+utmb8a.pfb><d:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/te
+xlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/texlive/2018/texmf-d
+ist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (6 pages, 1572369 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

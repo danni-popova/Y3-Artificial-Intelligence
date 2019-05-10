@@ -2,14 +2,13 @@
 \subsection{Objectives}
 The main purpose of this research is to develop an approach to quickly training a robot to navigate successfully. To this end we will define the objectives of our research as follows.
 \begin{enumerate}
-	\item The algorithm \textbf{shall} be capable of training a neural network to navigate an autonomous robot.
-	\item The algorithm \textbf{shall} be able to successfully train the robot in a quick and efficient manner. 
+	\item The algorithm should be capable of training a neural network to navigate an autonomous robot.
+	\item The algorithm will be able to successfully train the robot in a quick and efficient manner. 
 	\begin{enumerate}
-		\item Successfully train \textbf{shall} be defined as the to be able to accomplish the retrieval task in a safe manner, meaning it does not collide with anything in the environment. 		
-		\item Successfully train \textbf{shall} also be defined as to be able to accomplish it's task in an expedient manner. i.e. complete its task without unnecessary movements or stopping.
-		\item Quick and Efficient \textbf{shall} be defined as a successful candidate neural network being produced within an acceptable number of generations. 
+		\item Where successfully train means to to be able to accomplish the retrieval task in a safe manner, meaning it does not collide with anything in the environment. Also meaning as to be able to accomplish it's task in an expedient manner. i.e. complete its task without unnecessary movements or stopping.
+		\item And quick and efficient meaning a successful candidate neural network being produced within an acceptable number of generations. 
 	\end{enumerate}
-	\item The algorithm \textbf{shall} be portable. Meaning the algorithm should not just be able to train for one type of robot. For example, the algorithm should be able to train on robots with reversible tracks, four wheels, etc.
+	\item The algorithm should be portable. Meaning the algorithm should not just be able to train for one type of robot. For example, the algorithm should be able to train on robots with reversible tracks, four wheels, etc.
 \end{enumerate}
 
 \subsection{IOANNIS Algorithm structure}
@@ -47,7 +46,7 @@ The neural network will use $l$ layers an input layer $I$ and output layer $O$ a
 	\end{center}
 \end{figure}
 
-For this task it has been elected to use an input layer consisting of $x$ nodes, one for each sensor input to the robot. We have then selected to use $y$ hidden layers of $z$ nodes, this is because of....
+%For this task it has been elected to use an input layer consisting of $x$ nodes, one for each sensor input to the robot. We have then selected to use $y$ hidden layers of $z$ nodes, this is because of....
 
 There will be two output nodes. Each output will have applied to it a tan-sigmoid transfer function (figure \ref{fig:tansig}) to smooth the output. We have selected the tan-sigmoid transfer function as one output will represent each track, with a positive output directing the track to run forward, and a negative output directing the track to run backwards. The magnitude of each output will be used to control the speed at which the track runs.
 
@@ -81,6 +80,3 @@ Where $c$ represents the number of collisions the robot makes, and $t$ represent
 To determine when the optimal solution has been found, there are two options. Firstly, it is possible to limit to a fixed number of generations, after which the fittest individual will be presented as the optimal solution. The other is to define an end condition, for this algorithm that could be defined as having an adaptable number of generations with at least one genome resulting in no collisions.
 
 For the purpose this algorithm has been produced for, it is pertinent that the selected outcome prioritises safety of the robot and it's surroundings, as such the proposed algorithm will used a goal based end condition, and not be limited by the number of generations. This is because if a genome leads to collisions, this would be undesirable and unfit for purpose.
-
-\subsection{Robot Control}
-\subsection{Simulator}

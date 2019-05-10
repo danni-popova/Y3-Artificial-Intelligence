@@ -1,48 +1,87 @@
 This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
-I found no \citation commands---while reading file main.aux
-I found no \bibdata command---while reading file main.aux
-I found no \bibstyle command---while reading file main.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 482 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: IEEEabrv.bib
+Database file #2: BibTeX/library.bib
+Repeated entry---line 217 of file BibTeX/library.bib
+ : @techreport{Bjornsson
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 354 of file BibTeX/library.bib
+ : @article{Deb2011
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 411 of file BibTeX/library.bib
+ : @article{Bonin-Font2008
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 546 of file BibTeX/library.bib
+ : @article{Borenstein1989
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 720 of file BibTeX/library.bib
+ : @inproceedings{Gautam2014
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 763 of file BibTeX/library.bib
+ : @techreport{Cui2011
+ :                    ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--missing institution in Cui2011
+Warning--missing institution in Bjornsson
+Warning--empty year in Bjornsson
+Warning--empty journal in Floreano
+Warning--empty year in Floreano
+
+Done.
+You've used 11 entries,
+            4087 wiz_defined-function locations,
+            1425 strings with 19958 characters,
+and the built_in function-call counts, 7416 in all, are:
+= -- 610
+> -- 147
+< -- 57
++ -- 79
+- -- 24
+* -- 387
+:= -- 1214
+add.period$ -- 23
+call.type$ -- 11
+change.case$ -- 11
+chr.to.int$ -- 129
+cite$ -- 16
+duplicate$ -- 530
+empty$ -- 557
+format.name$ -- 32
+if$ -- 1651
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
+int.to.str$ -- 11
+missing$ -- 97
+newline$ -- 76
+num.names$ -- 11
+pop$ -- 223
+preamble$ -- 1
 purify$ -- 0
-quote$ -- 0
-skip$ -- 0
+quote$ -- 2
+skip$ -- 546
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 311
+swap$ -- 431
+text.length$ -- 14
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+top$ -- 5
+type$ -- 11
+warning$ -- 5
+while$ -- 35
+width$ -- 13
+write$ -- 146
+(There were 6 error messages)
